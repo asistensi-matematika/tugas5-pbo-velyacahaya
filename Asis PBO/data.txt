@@ -1,0 +1,20 @@
+PERPUSTAKAAN
+
+buku ke : [1]
+judul : buku_1
+pengarang : A Fuadi
+jumlah halaman : 100
+jenis buku : non fiksi
+
+buku ke : [2]
+judul : Dilan
+pengarang : PidiBaiq
+jumlah halaman : 0
+jenis buku : fiksi
+
+buku ke : [3]
+judul : HarryPotter
+pengarang : JKRowling
+jumlah halaman : 1000
+jenis buku : fiksi
+
